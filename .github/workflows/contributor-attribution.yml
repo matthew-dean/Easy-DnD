@@ -1,4 +1,5 @@
 name: Contributor attribution
+# Exercise the trusted pull request metadata check.
 
 on:
   pull_request_target:
